@@ -1,0 +1,7 @@
+com\currencyconverter\logic\CalculateConversion.class
+com\currencyconverter\logic\CurrencyList.class
+com\currencyconverter\gui\MainView$1.class
+com\currencyconverter\logic\CurrencyList$1.class
+com\currencyconverter\logic\ExchangeRate.class
+com\currencyconverter\gui\MainView.class
+com\currencyconverter\logic\ValidateInput.class
