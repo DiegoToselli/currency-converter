@@ -22,7 +22,7 @@ ___
 
 ___
 
-## Made whith 🛠️
+## Made with 🛠️
 
 * **Apache NetBeans IDE 17**
 * **Java JDK 17.0.61**
